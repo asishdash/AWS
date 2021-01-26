@@ -1,0 +1,11 @@
+{
+	"transactions" : [
+	{
+		"transType" : "PURCHASE",
+		"amount": 5.08
+	},
+	{
+		"transType" : "REFUND",
+		"amount": 25.08
+	}]
+}
