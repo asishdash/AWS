@@ -1,0 +1,3 @@
+sudo yum install python2-pip
+sudo pip install boto3
+sudo pip install Faker
